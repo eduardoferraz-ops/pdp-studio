@@ -1,0 +1,51 @@
+# PDP.studio
+
+> AI-powered product description page (PDP) production platform for e-commerce retailers. Built by Fullcast, Inc.
+
+For complete product details, capabilities, pricing, comparisons, and FAQs, see: https://pdp.studio/llms-full.txt
+
+PDP.studio transforms messy vendor data into polished, brand-consistent product listings at scale. It enables retailers to go from data ingestion to publish-ready product content in under 48 hours — a process that traditionally takes 3 to 6 weeks.
+
+## Core Capabilities
+
+- **Data Ingestion**: Extracts specs, dimensions, materials, and certifications from PDFs, CSVs, images, and spreadsheets automatically.
+- **AI Image Analysis**: Reads product photography to pull accurate attributes directly from images.
+- **Localization**: Adapts content per market — terminology, units, sizing, and compliance — not just literal translation.
+- **Brand Enforcement**: Every output is checked against brand guidelines, style guides, and source data before publication.
+- **AI Search Optimization**: Structures titles, descriptions, meta tags, and alt-text for discoverability across Google, ChatGPT, Claude, and Perplexity.
+- **Zero Hallucinations**: All outputs are anchored to source product data. No fabricated specs or claims.
+
+## Pricing
+
+- **Boutique** ($1,399/month): Up to 1,000 SKUs/month. Spec extraction, SEO optimization.
+- **Banner** ($3,499/month): Up to 10,000 SKUs/month. Image analysis, 5 language localizations, AI search optimization, priority support.
+- **House** (Custom): Up to 100,000 SKUs/month. Unlimited localizations, custom PIM integrations, dedicated account manager, SLA guarantees.
+
+## Integrations
+
+Accessible via API. Compatible with any PIM that supports inbound data. Enterprise customers get direct PIM integration for automated content delivery.
+
+## FAQ
+
+### What types of product data can PDP.studio ingest?
+Virtually any format: manufacturer PDFs, CSVs, raw images, and spreadsheets. Specs, dimensions, materials, and certifications are extracted automatically with no manual data entry.
+
+### How does PDP.studio ensure accuracy?
+Every output is anchored directly to source product data. Guardrails ensure no dimension, material, or certification is ever fabricated.
+
+### How does localization work?
+Content is adapted, not translated. The system knows that a "vest" in New York is a "waistcoat" in London and a "Weste" in Berlin, and automatically converts units, sizing, and compliance details per market.
+
+### How long does it take to go live?
+Under 48 hours from ingestion to publish-ready, compared to 3-6 weeks with traditional workflows.
+
+### How does AI search optimization work?
+Every title, description, meta tag, and alt-text field is structured for discoverability across traditional search engines, answer engines, and generative AI surfaces.
+
+## Links
+
+- Website: https://pdp.studio
+- Terms of Service: https://www.fullcast.com/others/website-terms-of-service/
+- Privacy Policy: https://www.fullcast.com/others/privacy-policy/
+- About: https://www.fullcast.com/company/about/
+- Careers: https://www.fullcast.com/company/careers/

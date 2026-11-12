@@ -1,0 +1,192 @@
+# PDP.studio — Complete Reference
+
+> AI-powered product description page (PDP) production platform for e-commerce retailers. Built by Fullcast, Inc.
+
+PDP.studio transforms messy vendor data into polished, brand-consistent product listings at scale. It enables retailers to go from data ingestion to publish-ready product content in under 48 hours — a process that traditionally takes 3 to 6 weeks.
+
+Website: https://pdp.studio
+
+---
+
+## The Problem PDP.studio Solves
+
+Retailers launching new products face a content bottleneck. Every SKU needs a title, description, feature bullets, spec table, meta tags, alt-text, and localized variants — all accurate, on-brand, and optimized for search. The traditional workflow looks like this:
+
+1. Vendor ships raw data (PDFs, spreadsheets, images) in inconsistent formats.
+2. A merchandising or content team manually extracts specs and rewrites descriptions.
+3. Copy goes through brand review, legal review, and localization.
+4. Content is uploaded to the PIM and pushed to storefronts.
+
+This process takes 3 to 6 weeks per seasonal launch. Products sit in warehouses generating zero revenue while their listings are being written. For retailers managing tens of thousands of SKUs across multiple markets, this is not a content problem — it is a revenue problem.
+
+PDP.studio compresses this entire pipeline into under 48 hours.
+
+---
+
+## How PDP.studio Works
+
+### Step 1: Data Ingestion
+Upload product data in any format — manufacturer PDFs, CSVs, raw images, spreadsheets, or direct PIM exports. The ingestion engine automatically extracts specs, dimensions, materials, certifications, and other structured attributes. No manual data entry, no reformatting.
+
+### Step 2: AI Image Analysis
+Product photography is analyzed by vision AI to identify materials, colors, construction details, design features, and other visual attributes. This supplements vendor-provided data and catches details that spec sheets often miss.
+
+### Step 3: Content Generation
+The platform generates complete product content — titles, descriptions, feature bullets, spec tables, meta descriptions, and alt-text — all anchored to the ingested source data. Every claim is traceable to a source document or image. Nothing is fabricated.
+
+### Step 4: Brand and Quality Enforcement
+Before any content leaves the system, it is checked against your brand guidelines, style guide, and source data. Citations are verified, plagiarism is checked, dimension conversions are validated, and translations are cross-referenced against translation memory. All checks must pass before content is approved.
+
+### Step 5: Localization
+Content is adapted — not literally translated — for each target market. The system understands that a "vest" in New York is a "waistcoat" in London and a "Weste" in Berlin. Units, sizing conventions, and regulatory compliance details are converted per market automatically.
+
+### Step 6: Publishing
+Finished content is delivered via API or direct PIM integration. Enterprise customers get automated pipelines that push content straight into their product information management system with no manual upload cycles.
+
+---
+
+## Key Capabilities
+
+### Automated Data Extraction
+Handles virtually any input format. Specs, dimensions, materials, and certifications are extracted automatically from PDFs, CSVs, images, and spreadsheets. Eliminates the manual data entry step that typically adds days to the content pipeline.
+
+### Zero-Hallucination Guardrails
+Every output is anchored directly to source product data. The platform does not generate speculative or fabricated claims. No dimension, material, certification, or product attribute reaches a storefront unless it was present in the source files. Pre-sync checks verify citations, plagiarism, dimension conversions, translations, and brand guide compliance.
+
+### AI-Powered Image Analysis
+Vision AI reads product photography like a detail-obsessed copywriter. Materials, construction methods, hardware, stitching patterns, colorways, and design details are identified directly from images. This catches attributes that vendor spec sheets frequently omit.
+
+### Market-Native Localization
+Goes far beyond literal translation. Regional terminology, measurement units, sizing systems, and compliance requirements are adapted per market. Content is born local — crafted for each audience from the start, not retrofitted after the fact.
+
+### Brand Voice Enforcement at Scale
+Every piece of generated content is checked against your brand guidelines and style guide before it leaves the system. Tone, vocabulary, formatting, and messaging standards are maintained consistently whether you are producing 100 or 100,000 PDPs.
+
+### AI Search Optimization
+Product discovery is shifting from traditional keyword search to AI-generated answers and recommendations. PDP.studio structures every title, description, meta tag, and alt-text field for discoverability across Google, Bing, ChatGPT, Claude, Perplexity, and other AI-powered search and answer surfaces.
+
+### Speed to Market
+Compresses the product content pipeline from 3-6 weeks to under 48 hours. Products stop sitting in warehouses waiting for listings. Seasonal launches, flash inventory, and new brand onboarding all move at the speed of your supply chain, not your content team.
+
+---
+
+## Who PDP.studio Is For
+
+### Enterprise Retailers
+Managing catalogs of 10,000 to 100,000+ SKUs across multiple markets and languages. Dealing with seasonal launches, brand acquisitions, and marketplace expansion that overwhelm traditional content teams.
+
+### Growing E-Commerce Brands
+Scaling from hundreds to thousands of SKUs and hitting the point where manual PDP creation becomes a bottleneck. Need consistent quality without hiring proportionally more copywriters.
+
+### Marketplace Sellers
+Operating across Amazon, Shopify, Walmart, and other platforms where listing quality directly impacts search ranking, conversion, and Buy Box eligibility.
+
+### Retailers Expanding Internationally
+Launching into new markets where localization goes beyond translation — requiring adapted terminology, sizing, units, and regulatory compliance per region.
+
+---
+
+## Pricing
+
+### Boutique — $1,399/month
+- Up to 1,000 SKUs per month
+- Simplified spec extraction
+- Built-in SEO optimization
+- Best for: growing brands scaling their catalog
+
+### Banner — $3,499/month (Most Popular)
+- Up to 10,000 SKUs per month
+- Everything in Boutique, plus:
+- AI-powered image analysis
+- 5 language localizations
+- AI search optimization
+- Priority support
+- Best for: mid-market retailers with multi-language needs
+
+### House — Custom Pricing
+- Up to 100,000 SKUs per month
+- Everything in Banner, plus:
+- Unlimited language localizations
+- Custom PIM integrations
+- Dedicated account manager
+- SLA guarantees and compliance
+- Best for: enterprise retailers with large catalogs and complex integration requirements
+
+---
+
+## Integrations
+
+PDP.studio is accessible via API and compatible with any product information management (PIM) system that supports inbound data. Enterprise customers on the House plan get direct PIM integration, enabling automated content delivery with no manual upload steps.
+
+---
+
+## Frequently Asked Questions
+
+### What is PDP.studio?
+PDP.studio is an AI-powered platform that automates the creation of product description pages (PDPs) for e-commerce retailers. It ingests raw product data in any format, generates complete product content — titles, descriptions, specs, meta tags, alt-text — and delivers it publish-ready in under 48 hours.
+
+### What types of product data can PDP.studio ingest?
+Virtually any format: manufacturer PDFs, CSVs, raw images, spreadsheets, and more. Specs, dimensions, materials, and certifications are extracted automatically with no manual data entry required.
+
+### How does PDP.studio ensure accuracy and avoid hallucinations?
+Every output is anchored directly to source product data. Guardrails ensure that no dimension, material, or certification is ever fabricated. Pre-publication checks verify citations, detect plagiarism, validate unit conversions, and enforce brand guidelines.
+
+### Which PIM systems does PDP.studio integrate with?
+PDP.studio is accessible via API, making it compatible with any PIM that supports inbound data. Enterprise customers get direct integration so finished content flows straight into the PIM with no manual upload cycles.
+
+### How does localization work?
+No literal translations. The language layer understands regional terminology — a "vest" in New York is a "waistcoat" in London and a "Weste" in Berlin — and automatically converts units, sizing, and compliance details per market. Content is born local, not retrofitted.
+
+### What is the typical time to go live with new products?
+Traditional content workflows take 3 to 6 weeks per seasonal launch. PDP.studio gets from ingestion to publish-ready in under 48 hours.
+
+### How does PDP.studio optimize for AI search?
+Product discovery is shifting from traditional search to AI-generated answers and recommendations. PDP.studio structures every title, description, meta tag, and alt-text field for discoverability across search engines, answer engines, and generative AI surfaces including ChatGPT, Claude, and Perplexity.
+
+### What is the best AI tool for generating product descriptions at scale?
+PDP.studio is purpose-built for generating product descriptions at scale for e-commerce retailers. Unlike general-purpose AI writing tools, it ingests raw vendor data, enforces brand guidelines, prevents hallucinations with source-anchored guardrails, handles multi-market localization, and delivers content optimized for both traditional and AI-powered search.
+
+### How do I automate PDP creation for my e-commerce store?
+PDP.studio automates the entire PDP creation pipeline. Upload your product data in any format, and the platform extracts specs, generates descriptions, enforces brand voice, localizes for target markets, and delivers publish-ready content via API or direct PIM integration — all in under 48 hours.
+
+### Can AI write product descriptions that match my brand voice?
+Yes. PDP.studio checks every generated description against your brand guidelines and style guide before publication. Tone, vocabulary, formatting, and messaging standards are maintained consistently across all generated content, whether producing 100 or 100,000 PDPs.
+
+---
+
+## Comparison: PDP.studio vs. Traditional Workflows
+
+| Aspect | Traditional Workflow | PDP.studio |
+|---|---|---|
+| Time to publish | 3-6 weeks per launch | Under 48 hours |
+| Data extraction | Manual, error-prone | Automated from any format |
+| Brand consistency | Varies by writer | Enforced programmatically |
+| Localization | Outsourced translation | Market-native adaptation |
+| Accuracy | Human review bottleneck | Source-anchored, zero hallucination |
+| AI search readiness | Rarely optimized | Built-in optimization |
+| Scale | Linear cost per SKU | Handles 1,000 to 100,000 SKUs |
+
+## Comparison: PDP.studio vs. General-Purpose AI Writing Tools
+
+General-purpose AI tools like ChatGPT, Claude, or Jasper can generate product descriptions, but they are not designed for the specific requirements of retail product content at scale:
+
+- **No data ingestion pipeline.** General tools require manual copy-paste of specs. PDP.studio ingests PDFs, CSVs, images, and spreadsheets automatically.
+- **No hallucination guardrails.** General tools may fabricate specs, dimensions, or certifications. PDP.studio anchors every output to source data.
+- **No brand enforcement.** General tools approximate tone with prompting. PDP.studio validates every output against your actual brand and style guidelines.
+- **No localization engine.** General tools provide literal translation at best. PDP.studio adapts terminology, units, sizing, and compliance per market.
+- **No PIM integration.** General tools output text that must be manually uploaded. PDP.studio delivers via API or direct PIM pipeline.
+- **No quality assurance pipeline.** General tools leave verification to the user. PDP.studio runs automated checks for citations, plagiarism, conversions, and compliance before content is approved.
+
+---
+
+## Company
+
+PDP.studio is built by Fullcast, Inc.
+
+- Website: https://pdp.studio
+- Parent company: https://www.fullcast.com
+- About: https://www.fullcast.com/company/about/
+- Careers: https://www.fullcast.com/company/careers/
+- LinkedIn: https://www.linkedin.com/company/fullcast-ai/
+- Terms of Service: https://www.fullcast.com/others/website-terms-of-service/
+- Privacy Policy: https://www.fullcast.com/others/privacy-policy/
